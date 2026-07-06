@@ -1,0 +1,13 @@
+Crop,Model,MAPE
+Carrot,SARIMA,15.92
+Carrot,XGBoost,14.66
+Carrot,LSTM,10.83
+Gram Black,SARIMA,10.13
+Gram Black,XGBoost,27.9
+Gram Black,LSTM,6.88
+Cauliflower,SARIMA,20.88
+Cauliflower,XGBoost,17.61
+Cauliflower,LSTM,18.69
+Banana(DOZENS),SARIMA,13.9
+Banana(DOZENS),XGBoost,13.99
+Banana(DOZENS),LSTM,12.07
